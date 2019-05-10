@@ -1,6 +1,6 @@
-token=NTc2NDE3NjExMTMxMjU2ODcz.XNXiCg.WS63Oy0opBfxiQMtA5Hngu9il1Q
-owner=287700590849425408
-prefix=!!!
-game=Playing
-stayinchannel=true
-songinstatus=true
+token= NTc2NDE3NjExMTMxMjU2ODcz.XNXiCg.WS63Oy0opBfxiQMtA5Hngu9il1Q
+owner= 287700590849425408
+prefix= !!!
+game= Playing
+stayinchannel= true
+songinstatus= true
